@@ -1,6 +1,0 @@
-voila
-fastai
-pillow<7
-packaging
-ipywidgets==7.6.3
-fastbook
